@@ -1,4 +1,4 @@
-# PIX ADA
+# PixADA
 
 Quer comprar ADA Cardano de forma rápida e segura? Com nossa plataforma, você faz a transação via PIX em poucos cliques! Simples, eficiente e sem complicação.
 
