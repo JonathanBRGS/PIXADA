@@ -26,4 +26,4 @@ Caso enfrente problemas ou falhas técnicas, entre em contato conosco pelo e-mai
 
 # Importante saber:
 
-Esta aplicação não está vinculada ao Banco do Brasil de nenhuma forma. Ao utilizar a plataforma, você assume os riscos associados ao uso de dados pessoais sensíveis através da internet.
+Esta aplicação não está vinculada ao Banco do Brasil de nenhuma forma. Os seus dados sensíveis não são armazenados ou transferidos a outros, apenas usados no acesso aos sistemas do Banco do Brasil.
